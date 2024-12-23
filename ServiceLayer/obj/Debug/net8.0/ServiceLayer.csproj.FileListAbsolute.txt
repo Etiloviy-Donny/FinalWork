@@ -1,0 +1,14 @@
+C:\Users\геллпплл\Desktop\Работа МДК 11.01\FinalWork\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+C:\Users\геллпплл\Desktop\Работа МДК 11.01\FinalWork\ServiceLayer\bin\Debug\net8.0\ServiceLayer.runtimeconfig.json
+C:\Users\геллпплл\Desktop\Работа МДК 11.01\FinalWork\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+C:\Users\геллпплл\Desktop\Работа МДК 11.01\FinalWork\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+C:\Users\геллпплл\Desktop\Работа МДК 11.01\FinalWork\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\геллпплл\Desktop\Работа МДК 11.01\FinalWork\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\геллпплл\Desktop\Работа МДК 11.01\FinalWork\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\геллпплл\Desktop\Работа МДК 11.01\FinalWork\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\геллпплл\Desktop\Работа МДК 11.01\FinalWork\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\геллпплл\Desktop\Работа МДК 11.01\FinalWork\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+C:\Users\геллпплл\Desktop\Работа МДК 11.01\FinalWork\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+C:\Users\геллпплл\Desktop\Работа МДК 11.01\FinalWork\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+C:\Users\геллпплл\Desktop\Работа МДК 11.01\FinalWork\ServiceLayer\obj\Debug\net8.0\ServiceLayer.genruntimeconfig.cache
+C:\Users\геллпплл\Desktop\Работа МДК 11.01\FinalWork\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll
